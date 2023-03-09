@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Zespol_do_gui/1.0.0": {
+        "runtime": {
+          "Zespol_do_gui.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zespol_do_gui/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
